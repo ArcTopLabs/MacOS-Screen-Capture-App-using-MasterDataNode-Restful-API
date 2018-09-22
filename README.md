@@ -17,6 +17,5 @@ ArcTop Labs : MasterDataNode Data Solution
 <p>Create an App after login, copy and paste App Name in arctoplabs.js, screenshot.sh file ######appName###### variable</p>
 <p>Copy and Replace the ######access_token###### (available in your login) in arctoplabs.js, screenshot.sh file access_token variable</p>
             
-![alt text](https://github.com/ArcTopLabs/Selfie-Photo-Tag-App-/blob/master/screenshot/selfie.png)
-![alt text](https://github.com/ArcTopLabs/Selfie-Photo-Tag-App-/blob/master/screenshot/SelfieData.png)
+![alt text](https://github.com/ArcTopLabs/MacOS-Screen-Capture-App-using-MasterDataNode-Restful-API/blob/master/screenshot/image.jpg)
 
